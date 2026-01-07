@@ -45,3 +45,7 @@ python -m xray.pipeline_demo
 - Simplified data capture
 
 These are intentional to keep focus on decision-level debugging.
+
+
+## Video Walkthrough
+https://www.loom.com/share/031750b5ac59413d82ea6c5beff53c06
